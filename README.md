@@ -24,8 +24,8 @@ Entry level Software Engineer
 
 ## Professional Experience
 
-- Shanghai Qiaoke Network Technology Co. Ltd, 2017.2 - 2017.8, Android Development, develop an android app to release and  browse house information
-- Hangzhou Qianmeng Network Technology Co. Ltd, 2017.9 - now, Nodejs and Reactjs Development, develop an e-commerce platform in wechat application 
+- Shanghai Qiaoke Network Technology Co. Ltd, Shanghai, China, 2017.2 - 2017.8, Android Development, develop an android app to release and  browse house information
+- Hangzhou Qianmeng Network Technology Co. Ltd, Hangzhou, China, 2017.9 - now, Nodejs and Reactjs Development, develop an e-commerce platform in wechat application 
 
 ## Education & Certifications
 
